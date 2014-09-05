@@ -1,0 +1,13 @@
+
+$theme: '.ace';
+@import "compass/css3";
+
+#{$theme}.toolbar {
+  @include box-shadow(rgba(0,0,0,0.3) 0 0 2px);
+  @extend .__chance_slice__sproutcore_ace_resources_toolbar_toolbar_0_0_1__0_;
+-chance-offset: "resources/toolbar/toolbar_0_0_1__0_" 0 0;background-repeat: repeat-x;
+  border-color: #999;
+  border-style: solid;
+  color: #505050;
+  text-shadow: 0 1px 1px white;
+}

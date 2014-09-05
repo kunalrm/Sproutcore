@@ -1,0 +1,17 @@
+/* Slice resources/sc-icon-sproutcore-16_0_0___0_0, used in: 
+	resources/icons.css;
+*/
+/* line 3, tmp/chance/image_css/sproutcore/core_tools/_image_css.scss */
+ .sc-icon-sproutcore-16 {
+  background-image: url('/static/sproutcore/core_tools/en/current/stylesheet-no-repeat.png?1409345755')
+;
+}
+
+/* line 3, tmp/chance/Applications/Server-app/Contents/ServerRoot/usr/lib/ruby/Gems/1-9-1/gems/sproutcore-1-10-2/lib/frameworks/sproutcore/frameworks/core_tools/resources/icons-css.scss */
+.sc-icon-sproutcore-16 {
+  width: 16px;
+  height: 16px;
+  background-position: -2px -2px;
+  background-repeat: no-repeat;
+}
+
